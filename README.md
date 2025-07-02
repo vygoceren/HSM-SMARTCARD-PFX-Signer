@@ -18,6 +18,8 @@ Bu proje, **.NET ortamında dijital imzalama işlemlerini** kolayca gerçekleşt
 - **Kamu Sertifikasyon Merkezi (Kamu SM)** ile %100 uyumlu
 - AKİS, e-İmza USB, Nitelikli Elektronik Sertifika içeren tüm cihazlarla tam destek
 - XML, PDF veya ham veri (byte[]) imzalama yeteneği
+- **İmza ve sertifika doğrulama (validation) desteği**
+- **Zaman damgası (Timestamp) desteği** – TSA ile uyumlu
 - Asenkron imzalama desteği
 - Gelişmiş hata yönetimi ve loglama altyapısı
 
@@ -47,6 +49,8 @@ This project is a robust **.NET digital signing solution**, available as both **
 - Fully compatible with **Turkey’s National Root CA (Kamu SM)**
 - Supports all local and international smart card devices (AKIS, e-Token, etc.)
 - XML, PDF, and raw data (byte[]) signing
+- **Signature and certificate validation support**
+- **Timestamp (TSA) support**
 - Async signing support
 - Detailed logging and error handling
 
@@ -58,4 +62,3 @@ This project is a robust **.NET digital signing solution**, available as both **
 - For support, licensing, or commercial offers, please get in touch.
 
 ---
-
